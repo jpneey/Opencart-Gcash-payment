@@ -15,4 +15,7 @@ Gcash Opencart 3.x payment method
 
 ## Configuration
 - Gcash Instructions: Instructions that will be given to the customer
-  - ex: ** Please send your payment to: 09XX XXX XXXX ** 
+  - ex: ** Please send your payment to: 09XX XXX XXXX **.
+- Total: The checkout total that the order must reach before this payment method becomes active.
+- Order Status: Order status to be set on every order after using this payment method.
+- Geo Zone: Geo zones that should be used before this payment method becomes active.
