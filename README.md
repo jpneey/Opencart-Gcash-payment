@@ -19,3 +19,6 @@ Gcash Opencart 3.x payment method
 - Total: The checkout total that the order must reach before this payment method becomes active.
 - Order Status: Order status to be set on every order after using this payment method.
 - Geo Zone: Geo zones that should be used before this payment method becomes active.
+
+## Download on Marketplace
+https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=42444
