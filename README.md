@@ -4,7 +4,7 @@ Gcash Opencart 3.x payment method
 ## Installation
 - Upload the `admin` and `catalog` folder on the base directory of your store.
   - This does not override core files and it is compatible on any theme and other extensions. 
-- Navigate to your administration dashboard then go to `extensions->payments` and then select `install`
+- Navigate to your administration dashboard then go to `extensions->payments`, find `gcash` then select `install`
 - After installation, you can then check/update the extension's configuration from `extensions->payments->gcash`.
 
 ## Faq
