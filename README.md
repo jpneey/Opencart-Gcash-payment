@@ -1,5 +1,7 @@
 # Opencart-Gcash-payment
-Gcash Opencart 3.x payment method
+Gcash Opencart 3.x payment method. This is for **free** but donations are always welcome
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=D6ZRENKB3CZBQ)
 
 ## Installation
 - Upload the `admin` and `catalog` folder on the base directory of your store.
